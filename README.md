@@ -101,4 +101,4 @@ Construyendo memoria artificial en la tradición del Calmécac.
 ## 📬 **Contacto**
 Próximamente: LinkedIn, Dev.to, Hashnode, portfolio.
 
-
+README.md_051225v00
